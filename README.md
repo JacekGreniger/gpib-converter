@@ -16,14 +16,3 @@ order as below:
 1. Program FT232RL using proper utility (see hw/ft232_settings.jpg)
 2. Program ATmega32 using ISP programmer (sw/gpib_conv_v4.hex)
 3. Set proper fusebits (see hw/fusebits.jpg)
-
-
-Parts list:
-IC1 - ATmega32, TQFP44
-IC2 - FT232RL
-LED1 - LED 0805
-R1 - 560ohm, 0805
-C1 - 100nF, 0805
-C2 - 4.7uF, 10V, B size
-X1 - connector mini-usb (TME: ESB34101000Z, Farnell: 2112374)
-Connector Wtyk 24pin Centronics (TME: CENTR-224, Farnell: 2112386)
