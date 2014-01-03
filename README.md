@@ -17,7 +17,7 @@ order as below:
 2. Program ATmega32 using ISP programmer (sw/gpib_conv_v4.hex)
 3. Set proper fusebits (see hw/fusebits.jpg)
 
-=============================
+
 Parts list:
 IC1 - ATmega32, TQFP44
 IC2 - FT232RL
